@@ -1,0 +1,3 @@
+
+[alias]
+gui = !sh -c '/usr/local/opt/git/libexec/git-core/git-gui' 
