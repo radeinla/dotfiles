@@ -1,4 +1,5 @@
 #!/bin/bash
 
-brew reinstall git
+brew install git
+brew install bash-completion
 cp ./dotfiles/.gitconfig ~/.gitconfig
