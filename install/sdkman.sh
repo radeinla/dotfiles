@@ -10,3 +10,4 @@ sdk install gradle
 sdk install sbt
 sdk install groovy
 sdk install scala
+sdk install maven
